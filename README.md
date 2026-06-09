@@ -98,7 +98,7 @@ Full-stack e-commerce platform with backend APIs and scalable architecture.
 - Advanced Django Backend Development and AI integration
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -110,11 +110,10 @@ Full-stack e-commerce platform with backend APIs and scalable architecture.
 </p>
 
 ---
-
+-->
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/mebratu-cheka-a0175b298/
-<!-- 🌐 Portfolio:-->
 - 📧 Email: mebratucheka7@gmail.com
 
 ---
