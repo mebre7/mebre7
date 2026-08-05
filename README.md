@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🚀 About Me
-- 🎓 4th Year electrical and Computer Engineering student with strong passion for technology
+- 🎓 Final Year electrical and Computer Engineering student with strong passion for technology
 - 🎓 Passionate technology learner focused on AI/ML and Backend Engineering
 - 🤖 Currently learning **Machine Learning, Neural Networks, Deep Learning, NLP & AI Agents**
 - 💻 Backend Developer using **Django & REST APIs**
