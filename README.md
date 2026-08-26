@@ -68,11 +68,10 @@ Here are some ideas to get you started:
 ---
 
 ## 📌 Featured Projects
+### [GuzoAI](https://github.com/mebre7/GuzoAI-v3-Multi-Agent_System)
+An AI-based multi-agent travel planning system.
 
-### 🚔 Police Station Management System
-A management system for handling prison records, inmate information, and administrative workflows.
-
-### 📝 Walia Blog System
+### 📝 [Walia Blog System](https://github.com/mebre7/Walia-blog-system)
 A modern blogging platform with content management functionality.
 
 ### 🌦️ Weather Forecasting System
