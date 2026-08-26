@@ -76,6 +76,8 @@ A modern blogging platform with content management functionality.
 
 ### 🌦️ Weather Forecasting System
 Weather prediction and forecasting project using data analysis and machine learning concepts.
+   - [weather-forecasting-aus-Random_Forests](https://github.com/mebre7/weather-forecasting-aus-Random_Forests)
+   - [weather-forecasting-aus-Logistic_Regression](https://github.com/mebre7/weather-forecasting-aus-Logistic_Regression)
 
 ### 🤖 Research AI Agent with LangChain
 An AI-powered research assistant using LangChain and LLM workflows.
