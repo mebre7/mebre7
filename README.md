@@ -1,121 +1,148 @@
-<!--
-**mebre7/mebre7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Mebratu</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi there👋, I'm Mebratu</h1>
-<h3 align="center">AI/ML Engineer| Backend Developer</h3>
+<h3 align="center">
+AI/ML Engineer | Deep Learning | Agentic AI | MLOps | Backend Developer
+</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Deep+Learning;Agentic+AI;MLOps;Backend+Developer" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Backend+Developer" />
+  Building intelligent applications and practical AI-powered solutions.
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 Final Year electrical and Computer Engineering student with strong passion for technology
-- 🎓 Passionate technology learner focused on AI/ML and Backend Engineering
-- 🤖 Currently learning **Machine Learning, Neural Networks, Deep Learning, NLP & AI Agents**
-- 💻 Backend Developer using **Django & REST APIs**
-- 🔐 Had cybersecurity experience by exploring ethical hacking and CTFs
-- 🌍 Interested in building scalable AI-powered startup systems for Ethiopia
-- ⚙️ Learning deployment of ML models and web applications
-- 🧠 Exploring LangChain, LLM applications, and intelligent systems
-- 📚 Learning every day and building real-world projects
+## 👨‍💻 About Me
 
----
----
-
-## 🛠️ Tech Stack
-
-### Languages
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Backend & Deployment
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-5A9BD5?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- 🎓 Final-year Electrical and Computer Engineering student at **Addis Ababa University**.
+- 🤖 Focused on **Artificial Intelligence, Machine Learning, and Deep Learning**.
+- 🧠 Building LLM-powered applications and **multi-agent AI systems**.
+- ⚙️ Interested in **MLOps, ML deployment, and end-to-end AI engineering**.
+- 🌐 Developing backend applications and RESTful APIs with **Django and FastAPI**.
+- 🚀 Interested in transforming AI ideas into useful products and startup solutions.
+- 🌍 Exploring AI applications that address real-world challenges in Ethiopia.
 
 ---
 
----
+## 🛠️ Technical Skills
 
-## 📌 Featured Projects
-### [GuzoAI](https://github.com/mebre7/GuzoAI-v3-Multi-Agent_System)
-An AI-based multi-agent travel planning system.
+### Programming & Data Science
 
-### 📝 [Walia Blog System](https://github.com/mebre7/Walia-blog-system)
-A modern blogging platform with content management functionality.
-
-### 🌦️ Weather Forecasting System
-Weather prediction and forecasting project using data analysis and machine learning concepts.
-   - [weather-forecasting-aus-Random_Forests](https://github.com/mebre7/weather-forecasting-aus-Random_Forests)
-   - [weather-forecasting-aus-Logistic_Regression](https://github.com/mebre7/weather-forecasting-aus-Logistic_Regression)
-
-### 🤖 Research AI Agent with LangChain
-An AI-powered research assistant using LangChain and LLM workflows.
-
-### 🛒 E-Commerce Platform *(Private Repository)*
-Full-stack e-commerce platform with backend APIs and scalable architecture.
-
----
-
-## 🌱 Currently Learning
-
-- Neural Networks, Deep Learning and NLP
-- Deployment of ML Models
-- Docker & Cloud Basics
-- LangChain & AI Agents
-- MLOps Fundamentals
-- LLM Applications
-- Web Application Deployment
-- Advanced Django Backend Development and AI integration
-
----
-<!--
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mebre7&show_icons=true&theme=tokyonight" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Programming languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mebre7&theme=tokyonight" />
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+### AI, Deep Learning & Agentic AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="Deep learning frameworks" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_AI-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-0078D4?style=for-the-badge" />
+</p>
+
+### Backend Development & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,postgres,mysql" alt="Backend technologies" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend_Development-333333?style=for-the-badge" />
+</p>
+
+### MLOps, Deployment & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,pycharm" alt="Development tools" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model_Deployment-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 ---
--->
+
+## 🚀 Featured Projects
+
+### ✈️ GuzoAI — Multi-Agent AI Travel Planner
+
+An AI-powered travel planning application that uses multiple specialized agents to help users plan personalized trips and generate travel itineraries.
+
+**Focus:** Agentic AI · Multi-Agent Systems · LLM Applications
+
+[View Repository](https://github.com/mebre7/GuzoAI-v3-Multi-Agent_System)
+
+### 🧠 AemroVision — Medical AI
+
+An AI-powered medical imaging project focused on brain MRI classification and AI-assisted clinical decision support.
+
+**Focus:** Deep Learning · Computer Vision · Medical AI
+
+[View Repository](https://github.com/mebre7/AemroVision-Brain-Tumor-Classifier)
+
+### 📊 More Projects
+
+Explore my GitHub repositories for additional projects
+
+👉 **[Explore all my repositories](https://github.com/mebre7?tab=repositories)**
+
+---
+
+## 💼 Experience & Professional Development
+
+### Global Consumer Intelligence (GCI)
+**AI & Data Science Trainee** | March – June 2026
+
+- Completed a three-month AI and Data Science training program.
+- Participated in an NFL Draft project involving data science and analytical work.
+
+### AAUStartup × TesfaAI
+**Startup Program Participant**
+
+- Participating in AI startup activities and product development.
+- Exploring AI-powered business intelligence solutions for Ethiopian SMEs.
+
+---
+
+## 🎓 Education
+
+**Addis Ababa University**
+
+BSc in Electrical and Computer Engineering  
+Computer Engineering Stream | Graduation: Sep 26, 2027
+
+---
+
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/mebratu-cheka-a0175b298/
-- 📧 Email: mebratucheka7@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/mebratu-cheka-a0175b298/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mebratucheka7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
