@@ -1,4 +1,4 @@
-[![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)
+[![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com/?user=mebre7)](https://git.io/streak-stats))
 
 <h1 align="center">Hi 👋, I'm Mebratu</h1>
 
