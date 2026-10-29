@@ -1,3 +1,4 @@
+[![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)
 
 <h1 align="center">Hi 👋, I'm Mebratu</h1>
 
